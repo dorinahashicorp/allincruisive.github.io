@@ -1,4 +1,13 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'not-much'
+baseURL = "https://allincruisive.com"
+languageCode = "en-us"
+title = "AllinCruisive"
+theme = "not-much"
+
+[params]
+  description = "a place to store my cruise obsessions"
+  mainSections = ["posts"]
+  showReadingTime = true
+
+[author]
+  name = "Dorina Timbur"
+  homepage = "https://allincruisive.com"
