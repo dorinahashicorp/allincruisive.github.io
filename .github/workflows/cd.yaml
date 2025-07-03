@@ -55,6 +55,8 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Add CNAME file
+        run: echo 'allincruisive.com' > public/CNAME 
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
