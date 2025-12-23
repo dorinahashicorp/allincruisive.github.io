@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <div class="container pt-5">
+    <div class="row mt-5 pt-5">
+      {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+    </div>
+    {{ .Content }}
+    {{ range where .Site.RegularPages "Section" "my-cruises" }}
+    <div class="row mb-3">
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format ":date_long" }}
+      <time class="small" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      <h2 class="h5 list-post-title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    </div>
+    {{ end }}
+  </div>
+{{ end }}
