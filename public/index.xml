@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redirect on AllinCruisive</title>
-    <link>https://allincruisive.com/</link>
+    <link>http://localhost:63653/</link>
     <description>Recent content in Redirect on AllinCruisive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://allincruisive.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Cruise: Cunard Mediterranean</title>
-      <link>https://allincruisive.com/my-cruises/2024-07-cunard-mediterranean/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://allincruisive.com/my-cruises/2024-07-cunard-mediterranean/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;My very first cruise experience was in July 2024 aboard the Queen Victoria, sailing through the stunning Mediterranean. We departed from Barcelona on July 15th and ended in Civitavecchia, visiting some fabulous  port cities along the way.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-ship--my-room&#34;&gt;The Ship &amp;amp; My Room&lt;/h2&gt;&#xA;&lt;p&gt;I sailed on Cunard&amp;rsquo;s Queen Victoria and managed to score a lovely balcony room through bidding for upgrades. Sitting on that balcony in the warm Mediterranean breeze was magical. We took some amazing pictures there, and it became a favourite spot on the ship.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:63653/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
