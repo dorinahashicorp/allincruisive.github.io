@@ -44,7 +44,12 @@ jobs:
 
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-
+      
+      - name: Verify theme files
+        run: |
+          echo "Checking if theme files exist..."
+          ls -la themes/not-much/layouts/_partials/ || echo "Theme partials not found!"
+          
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
