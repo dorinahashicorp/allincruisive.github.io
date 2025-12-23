@@ -1,40 +1,29 @@
 baseURL = "https://allincruisive.com"
 languageCode = "en-us"
 title = "AllinCruisive"
-theme = "not-much"
+theme = "PaperMod"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-      
 [params]
   description = "a place to store my cruise obsessions"
-  mainSections = ["posts"]
-  showReadingTime = true
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
 
-[author]
-  name = "Dori"
-  homepage = "https://allincruisive.com"
-
-[menu]
-
-  [[menu.main]]
+[[menu.main]]
   name = "Home"
   url = "/home/"
   weight = 1
 
-  [[menu.main]]
+[[menu.main]]
   name = "My Cruises"
   url = "/my-cruises/"
   weight = 2
 
-  [[menu.main]]
+[[menu.main]]
   name = "Gallery"
   url = "/gallery/"
   weight = 3
 
-  [[menu.main]]
+[[menu.main]]
   name = "Thoughts"
   url = "/thoughts/"
   weight = 4
