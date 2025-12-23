@@ -57,6 +57,7 @@ jobs:
           TZ: Europe/Rome
         run: |
           hugo \
+            --ignoreCache \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
