@@ -7,10 +7,11 @@ theme = "PaperMod"
   description = "a place to store my cruise obsessions"
   ShowReadingTime = true
   ShowBreadCrumbs = true
+  mainSections = []  # Don't show any posts on home page
 
 [[menu.main]]
   name = "Home"
-  url = "/home/"
+  url = "/"
   weight = 1
 
 [[menu.main]]
