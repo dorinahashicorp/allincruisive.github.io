@@ -1,0 +1,9 @@
+/* Remove the ## prefixes from headings */
+.post article h1::before,
+.post article h2::before,
+.post article h3::before,
+.post article h4::before,
+.post article h5::before,
+.post article h6::before {
+  content: "" !important;
+}
