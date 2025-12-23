@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on AllinCruisive</title>
-    <link>http://localhost:58029/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on AllinCruisive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:58029/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solo Cruising: Caribbean Adventure</title>
+      <link>http://localhost:1313/my-cruises/2025-02-caribbean-solo/</link>
+      <pubDate>Sat, 22 Feb 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-cruises/2025-02-caribbean-solo/</guid>
+      <description>&lt;p&gt;My first solo cruise experience in the Caribbean in February 2025 - an introspective adventure surrounded by azure views.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Cruise: Cunard Mediterranean</title>
-      <link>http://localhost:58029/my-cruises/2024-07-cunard-mediterranean/</link>
+      <link>http://localhost:1313/my-cruises/2024-07-cunard-mediterranean/</link>
       <pubDate>Mon, 15 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:58029/my-cruises/2024-07-cunard-mediterranean/</guid>
-      <description>&lt;p&gt;My very first cruise experience was in July 2024 aboard the Queen Victoria, sailing through the stunning Mediterranean. We departed from Barcelona on July 15th and ended in Civitavecchia, visiting and eating our way through some fabulous port cities along the way.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/my-cruises/2024-07-cunard-mediterranean/</guid>
+      <description>&lt;p&gt;My very first cruise experience was in July 2024 in the stunning Mediterranean. We departed from Barcelona and ended in Civitavecchia, visiting and eating our way through some fabulous port cities.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

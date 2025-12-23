@@ -4,7 +4,7 @@ date = 2024-07-15T10:00:00+00:00
 draft = false
 +++
 
-My very first cruise experience was in July 2024 aboard the Queen Victoria, sailing through the stunning Mediterranean. We departed from Barcelona on July 15th and ended in Civitavecchia, visiting and eating our way through some fabulous port cities along the way.
+My very first cruise experience was in July 2024 in the stunning Mediterranean. We departed from Barcelona and ended in Civitavecchia, visiting and eating our way through some fabulous port cities.
 
 <!--more-->
 
