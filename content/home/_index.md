@@ -12,3 +12,5 @@ Opinions on cruising can be very divided: some love the dynamicity of it, some h
 I find cruises both entirely fascinating (some are so heckin' big and ridiculous) and also very efficient. I just love waking up someplace new without taking a plane or a train and a nice, daily schedule.
 
 The idea for the name came to me one afternoon when I randomly stuttered in a conversation, saying 'allincruisive' instead of 'all inclusive cruising'. Absolutely genius. 
+
+If you're a fellow cruise obsessor, you can reach me via Instagram on @ALLINCRUISIVE.

@@ -38,8 +38,3 @@ theme = "not-much"
   name = "Thoughts"
   url = "/thoughts/"
   weight = 4
-
-  [[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 5
