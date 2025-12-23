@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://allincruisive.com/home/</loc>
     <lastmod>2025-06-22T18:48:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://allincruisive.com/</loc>
     <lastmod>2025-06-22T18:48:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://allincruisive.com/my-cruises/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://allincruisive.com/my-cruises/2024-07-cunard-mediterranean/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
+    <loc>https://allincruisive.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-cruises/</loc>
+    <loc>https://allincruisive.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://allincruisive.com/gallery/</loc>
   </url><url>
-    <loc>http://localhost:1313/thoughts/</loc>
+    <loc>https://allincruisive.com/tags/</loc>
+  </url><url>
+    <loc>https://allincruisive.com/thoughts/</loc>
   </url>
 </urlset>
