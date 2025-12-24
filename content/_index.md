@@ -6,11 +6,14 @@ title = 'Home'
 
 ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
-Welcome to **AllinCruisive** - a brain dump for my cruise obsessions. 
-This will include highlights from my actual - though very occasional - cruises and random cruise-related ideas outside of that.
+Welcome to **AllinCruisive** - a brain dump for my cruise trips and thoughts.
 
-Opinions on cruising can be very divided: some love the dynamicity of it, some hate the perceived 'over-the-top' aspect.
-I find cruises both entirely fascinating (some are so heckin' big and ridiculous) and also very efficient. I just love waking up someplace new without taking a plane or a train. I do also enjoy a good plan, and the daily cruise schedules are certainly a kink. 
+One day I took my first ever cruise, and life would never be the same again. 
+Opinions on cruising can be very divided: some love the dynamicity of it, some hate the perceived 'over-the-top' aspect. But cruising, as life itself, is what you make of it.
+
+I find cruises both entirely fascinating (some are so heckin' big and ridiculous) and also very efficient. I just love waking up someplace new without taking a plane or a train. And I love a schedule, which cruises are very good at, especially on sea days. 
 
 The idea for the name came to me one afternoon when I randomly stuttered in a conversation to my husband, saying 'allincruisive' instead of 'all inclusive cruising'. Absolutely genius.
+
+This is a lifelong project. Cheers to plentiful experiences ✺◟(＾∇＾)◞✺
 
