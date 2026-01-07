@@ -2,4 +2,4 @@
 title: "Thoughts"
 ---
 
-When it comes to cruising, I have many opinions, and I shall proclaim them here. 
+Reflections at the intersection of life and cruising.
