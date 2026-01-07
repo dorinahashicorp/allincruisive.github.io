@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thoughts on AllinCruisive</title>
-    <link>http://localhost:1313/thoughts/</link>
-    <description>Recent content in Thoughts on AllinCruisive</description>
+    <title>Metaphors on AllinCruisive</title>
+    <link>http://localhost:1313/tags/metaphors/</link>
+    <description>Recent content in Metaphors on AllinCruisive</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2025 14:30:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/metaphors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cruise Control and Other Navigation-Inspired Metaphors</title>
       <link>http://localhost:1313/thoughts/cruise-control-and-navigation-metaphors/</link>
       <pubDate>Tue, 07 Jan 2025 14:30:00 +0100</pubDate>
       <guid>http://localhost:1313/thoughts/cruise-control-and-navigation-metaphors/</guid>
       <description>&lt;p&gt;Have you noticed how many metaphors we use in everyday communication are inspired from the world of cruising and, more broadly, sea navigation? We say things like &amp;lsquo;cruise control&amp;rsquo;, &amp;lsquo;smooth sailing&amp;rsquo;, and &amp;lsquo;all hands on deck&amp;rsquo; like it&amp;rsquo;s second nature, even if we rarely step foot on an actual ship.&lt;br&gt;
-It&amp;rsquo;s not accidental; after all, boats were one of the first transportation systems that allowed people to travel far beyond their homelands, exploring other worlds. Using these metaphors is, therefore, reminiscent of our innate spirit of exploration, adventure and team collaboration.&lt;br&gt;
-I thought it would be fun to collect some of these navigation (and, by extension, cruise-inspired) metaphors.&lt;/p&gt;</description>
+It&amp;rsquo;s not accidental; after all, boats were one of the first transporation systems that allowed people to travel far beyond their homelands, exploring other worlds. Using these metaphors is, therefore, reminiscent of our innate spirit of exploration, adventure and team collaboration.&lt;br&gt;
+I thought it would be fun to collect some of these &amp;lsquo;cruise inspired&amp;rsquo; metaphors.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
