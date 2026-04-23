@@ -18,10 +18,10 @@ description: "Nine nights aboard Norwegian Sky — Madeira, the Canary Islands, 
 
 {{< figure src="/images/gallery/2025-11-canaries-morocco/seagull.jpg" caption="Shades of blue" >}}
 
-{{< figure src="/images/gallery/2025-11-canaries-morocco/lisbon-brunch.jpg" caption="Eggs Benedict in Lisbon — the perfect pre-cruise start" >}}
+{{< figure src="/images/gallery/2025-11-canaries-morocco/lisbon-brunch.jpg" caption="My go-to brunch order - Eggs Benedict. 10/10" >}}
 
 {{< figure src="/images/gallery/2025-11-canaries-morocco/pastel.jpg" caption="Rows of pastel de natas in a Lisbon bakery" >}}
 
-{{< figure src="/images/gallery/2025-11-canaries-morocco/morning.jpg" caption="Sunrise over the port, bridge silhouetted against a golden sky" >}}
+{{< figure src="/images/gallery/2025-11-canaries-morocco/morning.jpg" caption="Waking up someplace new" >}}
 
-{{< figure src="/images/gallery/2025-11-canaries-morocco/ship.jpg" caption="A scale model of a cruise ship spotted along the way" >}}
+{{< figure src="/images/gallery/2025-11-canaries-morocco/ship.jpg" caption="A scale model of our cruise ship" >}}
