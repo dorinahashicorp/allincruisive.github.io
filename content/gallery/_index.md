@@ -1,5 +1,6 @@
 ---
 title: "Gallery"
+layout: "list"
 ---
 
-At some point there will be lovely pictures here. 
+A collection of pictures from cruises and destinations.
