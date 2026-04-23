@@ -32,6 +32,10 @@ The thing that stayed with me most was the stark contrast between the grandeur o
 
 I also bought a Moroccan oil bottle from a shop along one of the excursion routes. It felt like the thing to do.
 
+## Cádiz
+
+Cádiz was a lovely surprise — a small, compact city that you can genuinely wander without a plan and feel completely at ease. We did a walking tour with a local historian, which turned out to be one of the best decisions of the trip. He told us that only about twenty years ago, while doing routine work under the city, they discovered an entire Roman amphitheatre buried beneath it. An entire amphitheatre, just sitting there under people's feet for centuries. It's the kind of detail that makes you look at a place differently.
+
 ## Life on the ship
 
 We had a balcony cabin, which I secured through the upgrade bidding process — absolutely worth doing if your cruise line offers it. Having that outdoor space makes such a difference, especially on sea days.
