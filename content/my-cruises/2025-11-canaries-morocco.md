@@ -6,7 +6,7 @@ title = 'The Canaries and Morocco'
 
 We flew early for this one — a weekend in Lisbon before boarding to enjoy good sushi, generous quantities of pastel de natas, and a slow start to what turned out to be a really lovely trip.
 
-**The ship:** Norwegian Sky, departing Lisbon on 3rd November. Nine nights, back on the 12th.
+**The ship:** Norwegian Sky, departing Lisbon on 3rd November. Nine nights, back on the 12th. It was a very scenic departure, sailing under the 'Ponte 25 de Abril' bridge.
 
 **The itinerary:** Funchal (Madeira) → Santa Cruz de Tenerife → Las Palmas Gran Canaria → Arrecife (Lanzarote) → Agadir → Casablanca → Cádiz/Seville → back to Lisbon. A good one for this time of year to get some last bits of sun before the long UK winter. 
 
