@@ -4,16 +4,16 @@ date: 2025-11-03
 description: "Nine nights aboard Norwegian Sky — Madeira, the Canary Islands, Agadir, Casablanca, and Cádiz."
 ---
 
-![Agadir from above](/images/gallery/2025-11-canaries-morocco/agadir.jpg)
+{{< figure src="/images/gallery/2025-11-canaries-morocco/agadir.jpg" caption="Agadir from above" >}}
 
-![Sailing away from Lisbon under the famous bridge](/images/gallery/2025-11-canaries-morocco/bridge.jpg)
+{{< figure src="/images/gallery/2025-11-canaries-morocco/bridge.jpg" caption="Sailing away from Lisbon under the famous bridge" >}}
 
-![A view from the balcony window](/images/gallery/2025-11-canaries-morocco/cabin.jpg)
+{{< figure src="/images/gallery/2025-11-canaries-morocco/cabin.jpg" caption="A view from the balcony window" >}}
 
-![The romantic, narrow streets of Cadiz](/images/gallery/2025-11-canaries-morocco/cadiz-street.jpg)
+{{< figure src="/images/gallery/2025-11-canaries-morocco/cadiz-street.jpg" caption="The romantic, narrow streets of Cadiz" >}}
 
-![Gorgeous mosque](/images/gallery/2025-11-canaries-morocco/mosque.jpg)
+{{< figure src="/images/gallery/2025-11-canaries-morocco/mosque.jpg" caption="Gorgeous mosque" >}}
 
-![Same mosque from further away](/images/gallery/2025-11-canaries-morocco/mosque2.jpg)
+{{< figure src="/images/gallery/2025-11-canaries-morocco/mosque2.jpg" caption="Same mosque from further away" >}}
 
-![Shades of blue](/images/gallery/2025-11-canaries-morocco/seagull.jpg)
+{{< figure src="/images/gallery/2025-11-canaries-morocco/seagull.jpg" caption="Shades of blue" >}}
