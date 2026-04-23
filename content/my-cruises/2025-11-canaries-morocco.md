@@ -1,7 +1,7 @@
 +++
 date = '2025-11-03T00:00:00+01:00'
 draft = false
-title = 'The Canaries and Morocco, November 2025'
+title = 'The Canaries and Morocco'
 +++
 
 We flew early for this one — a weekend in Lisbon before boarding to enjoy good sushi, generous quantities of pastel de natas, and a slow start to what turned out to be a really lovely trip.
